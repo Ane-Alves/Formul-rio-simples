@@ -1,2 +1,2 @@
-# Formul-rio-simples
+# Formu Simples
 formulário usando HTMLe CSS
